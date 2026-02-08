@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Jorge%20Santos%20|%20Python%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Jorge%20Santos%20|%20FullStack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 # 👨‍💻 Jorge Santos | FullStack Dev
 
@@ -51,16 +51,6 @@ Projeto focado em lógica, estrutura e GUI.
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kiraadeveloper&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraadeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📈 Atualmente Estudando
 - Automação com Python
 - Arquitetura de sistemas
@@ -70,8 +60,7 @@ Projeto focado em lógica, estrutura e GUI.
 ---
 
 ## 📫 Contato
-📧 Email: vjorgematheus0@email.com  
-🐙 GitHub: https://github.com/kiraadeveloper  
+📧 Email: vjorgematheus0@email.com    
 📸 Instagram: https://instagram.com/kiraadev_
 
 ---
