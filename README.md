@@ -28,7 +28,6 @@ testando tecnologias e fortalecendo minha base técnica.
 
 ### 🧠 Back-end
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
 
